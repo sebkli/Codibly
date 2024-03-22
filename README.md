@@ -1,4 +1,4 @@
-# Cinemafy
+# Codibly
 
 ## Table of contents
 
